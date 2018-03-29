@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/watson-developer-cloud": "^2.40.0",
     "prompt-sync": "^4.1.6",
     "watson-developer-cloud": "^3.2.1"
   }

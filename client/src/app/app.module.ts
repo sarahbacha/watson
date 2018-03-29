@@ -12,6 +12,9 @@ import { AppRoutingModule } from './app.routes';
 import { AppComponent } from './app.component';
 import { ChatComponent } from './components/index';
 
+// Services
+import { ChatService } from './services/chat.service';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -26,7 +29,7 @@ import { ChatComponent } from './components/index';
     CfModule,
     AppRoutingModule
   ],
-  providers: [],
+  providers: [ChatService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
