@@ -1,0 +1,17 @@
+{
+  "property": {
+    "display": true,
+    "disable": false,
+    "options": {
+      "width": "100%",
+      "imagePercent": 75,
+      "imageArrowsAutoHide": true,
+      "thumbnailsPercent": 25,
+      "thumbnailsColumns": 3,
+      "thumbnailMargin": 8,
+      "thumbnailsMargin": 8,
+      "thumbnailsArrowsAutoHide": true,
+      "previewFullscreen": true
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "property": {
+    "display": true,
+    "disable": false
+  },
+  "style": {
+    "container": {
+      "class": "",
+      "dynamicClass": ""
+    },
+    "item": {
+      "class": "item",
+      "dynamicClass": ""
+    },
+    "selectedItem": {
+      "class": "itemSelected",
+      "dynamicClass": ""
+    }
+  }
+}

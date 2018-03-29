@@ -1,0 +1,14 @@
+{
+  "property": {
+    "display": true,
+    "disable": false,
+    "showCardNumberAsIcon": true,
+    "showCardNumberAsPrefix": false,
+    "indexBefore": true,
+    "headerVertical": false,
+    "headerPosition": "left",
+    "horizontalSizes": "",
+    "verticalSizes": ""
+  },
+  "style": {}
+}

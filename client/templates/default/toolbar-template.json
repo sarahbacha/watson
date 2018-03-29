@@ -1,0 +1,28 @@
+{
+  "property": {
+    "display": true,
+    "disable": false,
+    "type": "info",
+    "info": {
+        "show": false
+    },
+    "content": {
+        "show": true
+    },
+    "actions": {
+        "show": false
+    },
+    "help": {
+        "show": false
+    },
+    "close": {
+        "show": false
+    },
+    "maximization": {
+        "show": false
+    },
+    "expandable": {
+        "show": false
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "property": {
+    "display": true,
+    "disable": false,
+    "buttonProperty": {
+      "label": "",
+      "iconProperty": null,
+      "iconPosition": "left"
+    },
+    "notification": null,
+    "divider": false
+  },
+  "style": {
+    "container": {
+      "class": "",
+      "dynamicClass": "",
+      "themeColor": "primary"
+    },
+    "icon": {
+      "class": "cf-default-icon",
+
+      "themeColor": "primary"
+    }
+  }
+}

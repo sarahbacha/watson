@@ -1,0 +1,33 @@
+{
+  "property": {
+    "display": true,
+    "disable": false,
+    "triggerIcon": { "name": "more_vert", "size": "30px" },
+    "itemsSource": "",
+    "menuItems": []
+  },
+  "style": {
+    "container": {
+      "class": "",
+      "themeColor": "primary"
+    },
+    "iconStyling": {
+      "container": {
+        "class": ""
+      },
+      "icon": {
+        "themeColor": "primary"
+      }
+    },
+    "menuItemStyling": {
+      "buttonStyling": {
+        "container": {
+          "class": ""
+        },
+        "button": {
+          "themeColor": "primary"
+        }
+      }
+    }
+  }
+}

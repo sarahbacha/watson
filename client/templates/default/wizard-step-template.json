@@ -1,0 +1,37 @@
+{
+  "property": {    
+    "header": {
+      "label": "Step"
+    },
+    "isValid": true,
+    "display": true,
+    "disable": false,
+    "headerId": "",
+    "contentId": ""
+  },
+  "style": {
+    "container": {
+      "class": "",
+      "dynamicClass": ""
+    },
+    "header": {
+      "container": {
+        "class": "",
+        "dynamicClass": ""
+      },
+      "button": {
+        "class": "",
+        "dynamicClass": "",
+        "themeColor": ""
+      }
+    },
+    "iconIndex": {
+      "class": "",
+      "dynamicClass": ""
+    },
+    "prefixIndex": {
+      "class": "",
+      "dynamicClass": ""
+    }
+  }
+}

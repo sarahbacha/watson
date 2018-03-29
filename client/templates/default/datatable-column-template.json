@@ -1,0 +1,14 @@
+{
+  "property": {
+    "display": true,
+    "disable": false,
+    "headerId": null,
+    "contentId": null,
+    "name": "",
+    "width": "",
+    "headerAlignment": "start",
+    "cellAlignment": "start",
+    "sortBy": ""
+  },
+  "style": {}
+}

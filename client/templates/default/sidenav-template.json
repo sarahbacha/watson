@@ -1,0 +1,15 @@
+{
+  "property": { 
+    "display": true,
+    "disable": false,   
+    "contentId": "",
+    "leftSideId": "",
+    "rightSideId": "",
+    "leftSideMode": "over",
+		"rightSideMode": "over",
+    "fullHeight": false,
+    "leftSideWidth": "",
+    "rightSideWidth": ""
+  },
+  "style": {}
+}

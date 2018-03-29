@@ -1,0 +1,22 @@
+{
+  "property": {
+    "display": true,
+    "disable": false,
+    "inputProperty": {
+      "placeholder": "Filter", 
+      "iconProperty": {
+        "name": "filter_list", 
+        "size": "20px" 
+      }        
+    }
+  },
+  "style": {
+    "inputStyling": {
+      "iconStyling": {
+        "icon": {
+          "themeColor": "primary" 
+        } 
+      }
+    }
+  }
+}

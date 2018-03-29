@@ -1,0 +1,30 @@
+{
+  "property": {
+    "header": { "label": "Tab card" },
+    "display": true,
+    "disable": false,
+    "headerId": "",
+    "contentId": ""
+  },
+  "style": {
+    "container": {
+      "class": "",
+      "dynamicClass": ""
+    },
+    "header": {
+      "container": {
+        "class": "",
+        "dynamicClass": ""
+      },
+      "button": {
+        "class": "cf-tabs-card-header-button"
+      }
+    },
+    "iconIndex": {
+      "class": ""
+    },
+    "prefixIndex": {
+      "class": ""
+    }
+  }
+}

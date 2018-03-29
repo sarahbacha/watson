@@ -1,0 +1,17 @@
+{
+  "property": {
+    "display": true,
+    "disable": false,
+    "title": "My List"
+  },
+  "style": {
+    "container": {
+      "class": "",
+      "dynamicClass": ""
+    },
+    "title": {
+      "class": "",
+      "dynamicClass": ""
+    }
+  }
+}

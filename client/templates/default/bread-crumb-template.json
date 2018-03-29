@@ -1,0 +1,24 @@
+{
+  "property": {
+    "display": true,
+    "disable": false,
+    "icon": {
+      "name": "keyboard_arrow_right"
+    },
+    "links": [{
+      "path": "home",
+      "alias": "home"
+    }]
+
+  },
+  "style": {
+    "iconStyling": {
+      "icon": {
+        "class": "greyIcon"
+      }
+    },
+    "link": {
+      "class": "greyLink"
+    }
+  }
+}

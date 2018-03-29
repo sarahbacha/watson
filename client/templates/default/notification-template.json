@@ -1,0 +1,9 @@
+{
+	"property": {
+		"display": true,
+		"disable": false,
+    "position": "top-right",
+    "theme": "",
+    "classes": "mat-primary"
+  }
+}

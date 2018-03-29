@@ -1,0 +1,27 @@
+{
+  "property": {
+    "display": true,
+    "disable": false,
+    "showTableFooter": true,
+    "showTableCount": true,
+    "showTablePager": true,
+    "headerHeight": 42,
+    "footerHeight": 42,
+    "rows": [],
+    "rowHeight": 50,
+    "columnMode": "force",
+    "limit": 3,
+    "expandable": false,
+    "rowExpand": "multiple",
+    "detailsHeight": 130,
+    "expandIcon": { "name": "keyboard_arrow_right", "size": "16px" },
+    "collapseIcon": { "name": "keyboard_arrow_down", "size": "16px" },
+    "selectable": false,
+    "sorted": [],
+    "selected": []
+  },
+  "style": {         
+    "expandIcon": { "icon": { "themeColor": "primary" } },
+    "collapseIcon": { "icon": { "themeColor": "primary" } }
+  }
+}

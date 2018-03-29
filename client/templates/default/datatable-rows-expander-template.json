@@ -1,0 +1,12 @@
+{
+	"property": {
+		"display": true,
+		"disable": false,
+		"expandAllIcon": { "name": "fa-expand", "size": "16px" },
+		"collapseAllIcon": { "name": "fa-compress", "size": "16px" }
+	},
+	"style": {
+		"expandAllIcon": { "icon": { "themeColor": "primary", "class": "rotated" } },
+		"collapseAllIcon": { "icon": { "themeColor": "primary", "class": "rotated" } }
+	}
+}

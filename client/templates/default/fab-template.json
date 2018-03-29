@@ -1,0 +1,25 @@
+{
+  "property": {
+    "display": true,
+    "disable": false,
+    "direction": "right",
+    "showButtons": false,
+    "stayOpened": false,
+    "trigger": {
+      "button": { 
+        "label": "Trigger",
+        "iconProperty": { "name": "menu" }
+      },
+      "tooltipPosition": "above"
+    },
+    "actionButtons": [
+      { 
+        "button": {
+          "label": "Action item",
+          "iconProperty": { "name": "home" }
+        },
+        "tooltipPosition": "above"
+      } 
+    ]
+  }
+}

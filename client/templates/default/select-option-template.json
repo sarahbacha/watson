@@ -1,0 +1,19 @@
+{
+  "property": {
+    "display": true,
+    "disable": false,
+    "option": null,
+    "option": null,
+    "value": null,
+    "label": null,
+    "item": null,
+    "icon": null,
+    "optionValueField": "value",
+    "optionLabelField": "label",
+    "optionItemField": "item",
+    "optionIconField": "icon"
+  },
+  "style": {
+   
+  }
+}

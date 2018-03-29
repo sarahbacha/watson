@@ -1,0 +1,25 @@
+{
+  "property": {
+  	"display": true,
+    "disable": false,
+    "showButtons": "hover",
+    "rowButtons": [
+      [ 
+        { "name": "moveUp", "icon": "keyboard_arrow_up" }, 
+        { "name": "moveDown", "icon": "keyboard_arrow_down" } 
+      ],
+      [ 
+        { "name": "indent", "icon": "format_indent_increase" }, 
+        { "name": "outdent", "icon": "format_indent_decrease" } 
+      ],
+      [ 
+        { "name": "clone", "icon": "content_copy" }, 
+        { "name": "delete", "icon": "delete" },
+        { "name": "insert", "icon": "playlist_add" } 
+      ],
+      [ 
+        { "name": "fly", "icon": "fa-apple" }
+      ]
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "property": {
+    "display": true,
+    "disable": false,
+    "showStepNumberAsIcon": true,
+    "showStepNumberAsPrefix": false,
+    "indexBefore": true,
+    "previousButton": { 
+      "display": true, 
+      "disable": false, 
+      "iconPosition": "left", 
+      "label": "Back" 
+    },
+    "nextButton": { 
+      "display": true, 
+      "disable": false, 
+      "iconPosition": "left", 
+      "label": "Next" 
+    },
+    "finishButton": { 
+      "display": true, 
+      "disable": false, 
+      "iconPosition": "left", 
+      "label": "Finish" 
+    },
+    "headerVertical": false,
+    "headerPosition": "left",
+    "headerFullHeight": false,
+    "footerVertical": false,
+    "footerPosition": "right",
+    "footerFullHeight": false,
+    "horizontalSizes": "",
+    "verticalSizes": ""
+  },
+  "style": {}
+}

@@ -1,0 +1,78 @@
+{
+  "property": {
+  	"display": true,
+    "disable": false,
+  	"targetId": "",  
+		"sourceEvent": null,
+		"position": "auto",
+		"disableClose": false,
+		"height": "",
+    "width": "",
+		"header": {
+			"show": true,
+			"toolbar": {
+				"type": "info",
+				"info": {
+		      "show": true,
+		      "icon": {"name": "info"},
+		      "order": 0
+		    },
+		    "content": {
+		      "show": true,
+		      "title": "",
+		      "template": null,
+		      "order": 1
+		    },
+		    "actions": {
+		      "show": false,
+		      "menu": null,
+		      "order": 2
+		    },
+		    "help": {
+		      "show": true,
+		      "icon": {"name": "help_outline"},
+		      "order": 3
+		    },
+		    "close": {
+		      "show": true,
+		      "icon": {"name": "highlight_off"},
+		      "order": 4
+		    },
+		    "maximization": {
+		      "show": false,
+		      "maximized": false,
+		      "minimizeIcon": null,
+		      "maximizeIcon": null,
+		      "order": 5
+		    },
+		    "expandable": {
+		      "show": false,
+		      "expanded": true,
+		      "icon": null,
+		      "order": 6
+		    }
+			}
+		},
+		"content": {
+			"show": true,
+			"message": "",
+			"template": null
+		},
+		"footer": {
+			"show": true,
+			"cancelButton": {
+				"show": true,
+				"button": {
+					"label": "Cancel"
+				}
+			},
+			"okButton": {
+				"show": true,
+				"button": {
+					"label": "Ok"
+				}
+			},
+			"template": null
+		}
+	}
+}

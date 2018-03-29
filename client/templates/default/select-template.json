@@ -1,0 +1,27 @@
+{
+  "property": {
+    "display": true,
+    "disable": false,
+    "required": false,
+    "multiple": false,
+    "dropdownUnder": false,
+    "placeholder": "Select: ",
+    "staticPlaceholder": "",
+    "options": [],
+    "optionsSource": "fromModel",
+    "showFilter": false,
+    "showIcon": false,
+    "iconChangeable": false,
+    "iconProperty": {
+      "name": "view_list",
+      "size": "20px"
+    },
+    "selected": "",
+    "optionValueField": "value",
+    "optionLabelField": "label",
+    "optionItemField": "item",
+    "optionIconField": "icon"
+  },
+  "style": {
+  }
+}
